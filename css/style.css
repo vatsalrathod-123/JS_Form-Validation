@@ -1,0 +1,12 @@
+body {
+  background: #f8f9fa;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+button:hover {
+  transform: scale(1.03);
+  transition: 0.3s;
+}
